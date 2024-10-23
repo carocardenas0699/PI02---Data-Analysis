@@ -108,6 +108,16 @@ Una vez se realizó todo el proceso de ETL el analisis exploratorio de datos se 
 8. **SEXO** - string <br> &emsp; Sexo informado por fuente policial de la víctima
 9. **EDAD** - string <br> &emsp; Edad de la víctima al momento del siniestro
 
+#### KPIs Anual
+Contiene los datos del total de victimas peatones y de motocicletas y de siniestros en intersecciones a nivel para cada año entre 2016 y 2021.
+
+![kpis_anual](img/kpis_anual.png)
+
+#### KPIs Semestral
+Contiene la informacion del numero total de homicidios por siniestro vial y la poblacion total para cada semestre del año entre 2016 y 2021.
+
+![kpis_sem](img/kpis_sem.png)
+
 ## Estructura del Proyecto
 
 ### Carpetas
