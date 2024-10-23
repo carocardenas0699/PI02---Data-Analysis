@@ -8,23 +8,24 @@
 A contInuación se presenta un proyecto de análisis de datos desarrollado a partir de un dataset sobre homicidios en siniestros viales que tuvieron lugar en la Ciudad Autónoma de Buenos Aires durante el periodo 2016-2021. Para este llevó a cabo un proceso de limpieza, transformación y normalización de datos para proceder a realizar un analisis exploratorio de datos y posteriormente un analisis exhaustivo de la problematica. Para finalizar, se realizó un dashboard explicativo en PowerBI en el cual se presentaron las conclusiones que se lograron extraer.
 
 ## Tabla de Contenido
-1. Descripción de la Estructura de Datos<br>
-    1.1. Datos en bruto <br>
-    1.2. Datos finales<br>
-2. Estructura del Proyecto<br>
-    2.1. Carpetas <br>
-    2.2. Notebooks<br>
-    2.3. Archivos adicionales <br>
-3. Contexto del Problema <br>
-4. Objetivos <br>
-5. Metodología<br>
-6. Resultados <br>
-    6.1. KPI's <br>
-7. Conclusiones <br>
-8. Recomendacciones <br>
-9. Herramientas implementadas <br>
-10. Uso y Ejecucion <br>
-11. Disclaimer <br>
+1. [Descripción de la Estructura de Datos](#descripción-de-la-estructura-de-datos)<br>
+    1.1. [Datos en bruto](#datos-en-bruto) <br>
+    1.2. [Datos procesados](#datos-procesados)<br>
+2. [Estructura del Proyecto](#estructura-del-proyecto)<br>
+    2.1. [Carpetas](#carpetas) <br>
+    2.2. [Notebooks](#notebooks)<br>
+    2.3. [Archivos adicionales](#archivos-adicionales) <br>
+3. [Contexto del Problema](#contexto-del-problema) <br>
+4. [Objetivos Generales](#objetivos-generales) <br>
+5. [Objetivos Especificos](#objetivos-especificos) <br>
+    5.1. [KPI's](#kpis)
+6. [Metodología](#metodologia)<br>
+7. [Resultados](#resultados) <br>
+    7.1. [Resultados KPI's](#resultados-kpis) <br>
+8. [Conclusiones](#conclusiones) <br>
+9. [Recomendacciones](#recomendaciones) <br>
+10. [Herramientas implementadas](#herramientas-empleadas) <br>
+11. [Disclaimer](#disclaimer) <br>
 
 
 ## Descripción de la Estructura de Datos
@@ -211,7 +212,7 @@ Algunos de los resultados obtenidos partir del analisis realizado son los siguie
 - La mayor parte de las victimas se encuentraban en una edad alrededor de los 30 años de edad.
 - El 76.22% de las victimas eran de sexo masculino, el 23.22% femenino y el 0.56% no registra.
 
-### KPI's
+### Resultados KPI's
    - **Tasa de homicidios en siniestros viales:** <br> En el segundo semestre del 2021 se logró una **rerducción del 23.64%** lo cual es superior al 10% propuesto.
    - **Cantidad de accidentes mortales de motociclistas en siniestros viales:** <br> Para el cierre del 2021, se tuvo un total de 46 muertes de motociclistas que con respecto a las 28 muertes del año 2020 representa un **aumento del 64.29%**
    - **Cantidad de accidentes mortales de peatones en siniestros viales:** <br> Al final del 2021 se tuvo un total de 33 victimas mortales que eran peatones lo cual significa una **reduccion del 2.94%** con respecto a las 34 del año 2020.
